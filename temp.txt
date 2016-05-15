@@ -1,0 +1,12 @@
+  
+
+<html>
+ 
+   <frameset border=0 Rows = "13.5%,86.5%" FrameBorder=0>
+      <frame  noresize  scrolling=no border=0 src = "../CommonFiles/TopTitle.jsp"/>
+      <frameset border=0 cols = "15.5%,84.5%" FrameBorder=0>
+          <frame  noresize  scrolling=no border=0 src ="FrameLeftStudent.jsp"/ >
+          <frame noresize  border=0 Name="DetailSection" src ="PersonalFiles/ShowAlertMessageSTUD.jsp" SCROLLING=AUTO/>
+      </frameset>
+   </frameset>
+</html>
